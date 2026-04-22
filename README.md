@@ -1,2 +1,2 @@
 # faculdade-exame
-Repositório para demo para as aulas da Faculdade Exame
+Repositório para demo para as aulas do MBA da Faculdade Exame
